@@ -36,6 +36,10 @@ Useful for race-pace analysis, stint comparisons, and driver performance breakdo
   <br/><em>Part 1: Piastri vs Norris — First Stint</em>
 </p>
 
+> Note: The images above have been post-edited for the original Instagram post — the script generates the comparison table only. Additional text, context, and visual elements were added manually afterward.
+
+
+
 <p align="center">
   <img src="AnalysisPart2.png" alt="Part 2 - Leclerc vs Piastri vs Verstappen in open air" width="80%"/>
   <br/><em>Part 2: Leclerc vs Piastri vs Verstappen — Laps 40–57 (Open Air)</em>
